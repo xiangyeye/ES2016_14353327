@@ -63,6 +63,7 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 编译完后文件目录如下($ cd ..        $ ls
 
 得到的结果如下：
+
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/mulu.jpg" width = "500" alt="configure" />
 
 ***
