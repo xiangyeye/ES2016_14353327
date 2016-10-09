@@ -52,6 +52,10 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 
 `$	../configure CXX=g++ --disable-async-updates`
 
+结果如下
+
+<img src="https://raw.githubusercontent.com/xiangyeye/image/master/build.jpg" width = "300" alt="configure" />
+
 编译
 
 `$	sudo make install`
@@ -59,7 +63,7 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 编译完后文件目录如下($ cd ..        $ ls
 
 得到的结果如下：
-<img src="https://raw.githubusercontent.com/xiangyeye/image/master/1.jpg" width = "1000" alt="configure" />
+<img src="https://raw.githubusercontent.com/xiangyeye/image/master/mulu.jpg" width = "1000" alt="configure" />
 
 ***
 
@@ -93,4 +97,4 @@ sudo wget http://www.tik.ee.ethz.ch/~shapes/downloads/dol_ethz.zip
 成功结果如图
 
 
-<img src="https://raw.githubusercontent.com/xiangyeye/image/master/3.jpg" width = "300" alt="configure" />
+<img src="https://raw.githubusercontent.com/xiangyeye/image/master/result.jpg" width = "300" alt="configure" />
