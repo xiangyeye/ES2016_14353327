@@ -9,7 +9,7 @@
 ### **1. 改完的.dot截图：**
 * **修改example2，让3个square模块变成2个的dot图**
  
-<img src="https://raw.githubusercontent.com/xiangyeye/image/master/dot1.png" width = "350" alt="configure" />
+<img src="https://raw.githubusercontent.com/xiangyeye/image/master/dot1.png" width = "500" alt="configure" />
 
 
 * **修改example2，让3个square模块变成2个的运行结果**
@@ -19,7 +19,7 @@
 
 * **修改example1，使其输出3次方数的dot图**
 
-<img src="https://raw.githubusercontent.com/xiangyeye/image/master/dot2.png" width = "350" alt="configure" />
+<img src="https://raw.githubusercontent.com/xiangyeye/image/master/dot2.png" width = "400" alt="configure" />
 
 
 * **修改example1，使其输出3次方数的运行结果**
