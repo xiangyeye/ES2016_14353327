@@ -13,14 +13,17 @@
 
 
 * **修改example2，让3个square模块变成2个的运行结果**
+
  <img src="https://raw.githubusercontent.com/xiangyeye/image/master/result1.png" width = "350" alt="configure" />
  
 
 * **修改example1，使其输出3次方数的dot图**
+
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/dot2.png" width = "350" alt="configure" />
 
 
 * **修改example1，使其输出3次方数的运行结果**
+
  <img src="https://raw.githubusercontent.com/xiangyeye/image/master/result2.png" width = "350" alt="configure" />
  
 
@@ -33,6 +36,7 @@
 * **修改example1，使其输出3次方数的运行结果**
 
 要从平方变为三次方，在要再多乘以一个i就好了。
+
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/xiugai2.png" width = "350" alt="configure" />
 
 
