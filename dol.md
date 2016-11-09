@@ -30,12 +30,12 @@
 ### **2. 具体如何修改的**
 * **修改example2，让3个square模块变成2个**
 
-原始的example2这里的value的3，表示迭代次数，我们只要两个square模块，所以我们把value改为2，问题就解决了。
+原始的example2这里的value的3，表示迭代次数，我们只要两个square模块，所以我们在xml文件中把value改为2，问题就解决了。
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/xiugai1.png" width = "350" alt="configure" />
 
 * **修改example1，使其输出3次方数的运行结果**
 
-要从平方变为三次方，在要再多乘以一个i就好了。
+要从平方变为三次方，只要在square.c文件中多乘以一个i就好了。
 
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/xiugai2.png" width = "350" alt="configure" />
 
