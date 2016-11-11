@@ -52,6 +52,7 @@ Desktop-Full Install (桌面完整安装)：
  打开第二个终端，开启小乌龟界面，输入指令：
 	rosrun turtlesim turtlesim_node
 得到小乌龟界面：
+
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/ROS2.png" width = "500" alt="configure" />
 
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/ROS3.png" width = "500" alt="configure" />
