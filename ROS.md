@@ -46,6 +46,7 @@ Desktop-Full Install (桌面完整安装)：
 ## 测试ROS是否安装成功
  打开第一个终端，输入指令：
 	roscore
+	
 <img src="https://raw.githubusercontent.com/xiangyeye/image/master/ROS1.png" width = "500" alt="configure" />
 
 
